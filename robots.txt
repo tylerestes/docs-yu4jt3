@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-f9qcl7.cuansalam.cfd/sitemap.xml
